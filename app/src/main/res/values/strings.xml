@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejemplo-1</string>
+    <string name="header_txt">Mi App</string>
+    <string name="message_edt">Escribe un mensaje.</string>
+    <string name="message_txt">Mensaje:</string>
+    <string name="send_btn">Enviar</string>
+    <string name="content_txt">Contenido mensaje</string>
+    <string name="todo">TODO</string>
+    <string name="txt_data">Datos recibidos</string>
+</resources>
